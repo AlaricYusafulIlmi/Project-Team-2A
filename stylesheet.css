@@ -1,5 +1,5 @@
 html, body { 
-  width: 100%;
+  width: auto;
   height: auto;
 }
 
@@ -24,8 +24,11 @@ li {
   height: 100px;
   top: 0;
   z-index: 10;
+  margin: 20px 15px;
 }
-
+.nav-link {
+  color:#fff;
+}
 a {
   color: #000;
   text-decoration: none;
@@ -290,6 +293,7 @@ footer {
 .contact-submit {
   background-color:#000000;
   color :#ffffff;
+  cursor: pointer;
 }
 .footer-logo {
   font-size: 32px;
