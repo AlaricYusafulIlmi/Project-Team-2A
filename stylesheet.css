@@ -21,11 +21,11 @@ li {
   color: #ffffff;
   position: fixed;
   top: 0px;
-  width: 100%;
+  width: 99.2%;
   height: 100px;
+  margin-top:6px;
   top: 0;
   z-index: 10;
-  margin: 20px 15px;
 }
 .nav-link {
   color:#fff;
