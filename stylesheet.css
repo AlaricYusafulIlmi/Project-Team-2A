@@ -68,9 +68,10 @@ a {
 
 h1 {
   font-size: 52px;
-  margin: 0px;
+  margin: 18px;
   color: #ffffff;
 }
+
 h3 {
   margin: 0px;
 }
@@ -106,6 +107,7 @@ h2 {
 .order {
   background-color: #c6a967;
 }
+
 .p {
   margin: 0px;
 }
@@ -169,11 +171,13 @@ span {
 .card h1 {
   font-size: 25px;
   text-align: center;
+  color: #2980b9;
 }
 
 .card p {
-  font-size: 15px;
+  font-size: 18px;
   text-align: center;
+  margin-bottom: 5px;
 }
 
 .card button {
